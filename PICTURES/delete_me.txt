@@ -1,0 +1,4 @@
+put images here and use datagen_picture for doodler_draw (images can be any size, png or jpg)
+OR
+Run datagen_cam for direcly create numpy array and preview image will be placed here from your camera. (images will be save in this folder from camera)
+
