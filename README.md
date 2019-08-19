@@ -14,3 +14,15 @@ why need replace random module?
 bc randomStr=''.join(random.choices(string.ascii_uppercase + string.digits, k=5)) not working on old random module from python 3.5 so wee need replace it with 3.6 module
 
 i did it on many pc and theano from original 3.5 bever gets work.
+
+
+how to run:
+u can run datagen_camera.py
+then train.py
+when trained doodler_cam.py or doodler_draw.py
+
+OR
+u place images to PICTURES folder
+next datagen_picture.py
+then train.py
+when trained doodler_cam.py or doodler_draw.py
