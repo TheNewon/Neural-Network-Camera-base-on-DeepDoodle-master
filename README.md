@@ -16,12 +16,22 @@ bc randomStr=''.join(random.choices(string.ascii_uppercase + string.digits, k=5)
 i did it on many pc and theano from original 3.5 bever gets work.
 
 how to run:
+
 u can run datagen_camera.py
+
 then train.py
+
 when trained doodler_cam.py or doodler_draw.py
 
+
 OR
+
+
 u place images to PICTURES folder
+
 next datagen_picture.py
+
 then train.py
+
 when trained doodler_cam.py or doodler_draw.py
+
