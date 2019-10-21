@@ -3,7 +3,7 @@ Edited and improved version of DeepDoodle-master but for camera usage
 Very hard to set repository only for pro user
 u will need theano + pygpu installed
 CUDA required
-module required: pygame, numpy, string, easygui, cv2, keras
+module required: pygame, numpy, easygui, cv2, keras
 
 Best metod to get working -> install old conda with python 3.5 in bash. install conda 3.6 in virtual env
 
